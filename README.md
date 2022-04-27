@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Latrell-github
-- 👀 I’m interested in Mpbile Development
+- 👀 I’m interested in Mobile Development
 - 🌱 I’m currently studying Bachelor of Science in Computer Engineering at PUP Binan Campus
 - 📫 Reach me at latrellcostales59@gmaill.com
 
