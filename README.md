@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Latrell-github
+- 👋 Hi, I’m Latrell Costales
 - 👀 I’m interested in Mobile Development
 - 🌱 I’m a graduate of Bachelor of Science in Computer Engineering at PUP Binan Campus
 - 📫 Reach me at latrellcostales59@gmaill.com
